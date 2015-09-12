@@ -47,9 +47,7 @@ var completedFridayPrep = null;
 * declare a variable named `west_coast` which is an Array. This Array contains the names of all the states
 * which can be found along the west coast of The United States.
 **/
-
-
-
+var west_coast = ["Alaska", "Arizona", "California", "Colorado", "Hawaii", "Idaho", "Montana", "Nevada", "New Mexico", "Oregon", "Utah", "Washington", "Wyoming"];
 
 
 /**
