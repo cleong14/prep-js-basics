@@ -7,9 +7,9 @@
 * declare variables named `first_name`, `last_name`, and `birth_place`.
 * Fill out the values for these with your own data or make it up. It should contain a String
 **/
-
-
-
+var first_name = "Chaz";
+var last_name = "Leong";
+var birth_place = "Honolulu";
 /**
 * #2
 * Variables with a Number as their value
@@ -17,9 +17,9 @@
 * declare variables named `favorite_number`, `current_year`, and `that_one_prince_song`.
 * Their values should be a Number
 **/
-
-
-
+var favorite_number = 14;
+var current_year = 2015;
+var that_one_prince_song = 
 /**
 * #3
 * Variables with Boolean values
@@ -27,9 +27,10 @@
 * declare variables named `isDaytime`, `isLeftHanded`, `inHawaii`, and `isHappyCoding`
 * Their values should be a Boolean
 **/
-
-
-
+var isDaytime = false;
+var isLeftHanded = false;
+var inHawaii = true;
+var isHappyCoding = true;
 /**
 * #4
 * Variables with null
