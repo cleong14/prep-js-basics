@@ -57,7 +57,7 @@ var west_coast = ["Alaska", "Arizona", "California", "Colorado", "Hawaii", "Idah
 * declare a variable named `even numbers` which is an Array. This Array contains numbers that
 * are considered 'even values'. Have at least ten even values in this array
 **/
-
+var evenNumbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
 
 
 /**
