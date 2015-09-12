@@ -94,7 +94,9 @@ var cookiesLeftover = cookiesBought %= 3;
 *
 * store the return value to a variable and use console.log to inspect the value which was passed back by your function
 **/
-
+var jump = function (height) {
+	return "You jumped " + height + " feet high!"
+};
 
 
 /**
