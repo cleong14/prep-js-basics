@@ -63,20 +63,25 @@ var evenNumbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
 /**
 * #6a Arithmetic
 */
-
-
-
+var sum = 5 + 5;
+var subtract = 20 - 10;
+var multiply = 2 * 2;
+var divide = 100 / 10;
 /**
 * #6b Comparisons & Logic
 */
-
-
-
+sum === subtract;
+multiply < divide;
+divide >= sum;
 /**
 * #6c Assignments
 */
-
-
+var carsOwned = 1;
+var newCarsOwned = carsOwned += 1;
+var sandwiches = 4;
+var sandwichesLeft = sandwiches -= 1;
+var cookiesBought = 20;
+var cookiesLeftover = cookiesBought %= 3;
 
 /**
 * #7a
