@@ -19,7 +19,7 @@ var birth_place = "Honolulu";
 **/
 var favorite_number = 14;
 var current_year = 2015;
-var that_one_prince_song = 
+var that_one_prince_song = 1999;
 /**
 * #3
 * Variables with Boolean values
