@@ -38,8 +38,8 @@ var isHappyCoding = true;
 * declare variables named `enrolledAtDevLeague` and `completedFridayPrep`
 * Their values should be a Null value
 **/
-
-
+var enrolledAtDevLeague = null;
+var completedFridayPrep = null;
 /**
 * #5a
 * Variables with an Array for it's value. This Array will contain:
